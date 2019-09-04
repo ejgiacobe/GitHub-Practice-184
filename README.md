@@ -62,7 +62,7 @@
 | Zhuoyan Xie       | WF 10:10am        | zux31                | <https://zux31.github.io/STAT-184/> |
 | Nan Jiao          | WF 2:30pm         | Jiaonan              | <https://jiaonan.github.io/sta-184/> |
 | Anmolika Singh    | WF 12:30pm      | Anmolikasingh       | < https://anmolikasingh.github.io/stat184/>  |
-| Sandra Thomas     | WF 2:30pm         |sandraathomas        |<https://sandraathomas.github.io/Stat-184-Github-Practice-/> "added Sandra Thomas to the class table for Stat184" |
+| Sandra Thomas     | WF 2:30pm         |sandraathomas        |<https://sandraathomas.github.io/Stat-184-Github-Practice-/> |
 | Zinuo Jia         | WF 10:10am        | ZinuoJia             | <https://zinuojia.github.io/stat184/> |
 | Yihua Huang       | WF 10:10am        | yihuahuang1          | <https://yihuahuang1.github.io/STAT184/>   |
 | Miza Syafiqah      | WF 2:30pm        | mizazot         | <https://mizazot.github.io/practice/> |
